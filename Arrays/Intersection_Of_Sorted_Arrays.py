@@ -16,3 +16,6 @@ class Solution:
             else:
                 j += 1
         return arr 
+     
+# Time Complexity: O(n + m) where n  = length of A, m =  length of B
+# Space Complexity: O(k), k is the length of intersection array
