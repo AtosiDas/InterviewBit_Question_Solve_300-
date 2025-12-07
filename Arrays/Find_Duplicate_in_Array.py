@@ -14,3 +14,5 @@ class Solution:
             fast = A[fast]
         return slow
              
+# Time Complexity: O(n)
+# Space Complexity: O(1)
