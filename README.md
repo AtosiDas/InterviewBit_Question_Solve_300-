@@ -1,6 +1,6 @@
 # DSA Solutions from InterviewBit
 
-This repository contains **25+ Data Structures and Algorithms solutions** solved from **InterviewBit**.  
+This repository contains **50+ Data Structures and Algorithms solutions** solved from **InterviewBit**.  
 I solved 1–2 problems every day and documented the solutions along with the **original problem statement** as comments inside each file. This makes it easy for anyone to identify which InterviewBit problem each solution corresponds to.
 
 The goal of this repository is to help others prepare for coding interviews by providing clean, well-structured Python solutions.
