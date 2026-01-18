@@ -6,8 +6,7 @@ class Solution:
         if n <= 2:
             return n
 
-        write = 2  # first two elements are always allowed
-
+        write = 2  
         for read in range(2, n):
             if A[read] != A[write - 2]:
                 A[write] = A[read]
